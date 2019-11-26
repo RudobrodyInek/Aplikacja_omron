@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Omron</string>
+    <string name="title_activity_bluetooth">bluetooth</string>
+</resources>
